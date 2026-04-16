@@ -1,5 +1,5 @@
 // Write your code here!
-const container = document.getElementById("container");
+const container = document.getElementById("post-list");
 
 async function getPosts() {
   try {
